@@ -1,0 +1,582 @@
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 5.0020.
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:44:17 2025
+WARNING: Linesearch objective is not convex
+
+Wed Feb  5 10:45:17 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 5.0020.
+
+Wed Feb  5 10:46:13 2025
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 5.0020.
+

@@ -1,0 +1,42 @@
+
+MPC_ddot_q:
+  q : 200
+  qdot : 0.1
+  R : 0.001
+  dT : 0.01
+  Np : 10
+  loop : 10
+
+  # q : 5
+  # qdot : 0.01
+  # R : 0.001
+  # dT : 0.02
+  # Np : 10
+  # loop : 20
+
+MPC_ddot_x:
+  # x : 100
+  # xdot : 0.1
+  # R : 0.001
+  # dT : 0.01
+  # Np : 10
+  # loop : 10
+
+  x_pos : 100
+  x_ori : 100
+  xdot_pos : 0.1
+  xdot_ori : 0.1
+  R : 0.001
+  dT : 0.01
+  Np : 10
+  loop : 10
+  x_pos_t : 10
+  x_ori_t : 10  
+
+
+
+
+
+
+
+

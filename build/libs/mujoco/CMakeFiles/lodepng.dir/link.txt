@@ -1,0 +1,2 @@
+"/usr/bin/gcc-ar-9" cr ../../lib/liblodepng.a "CMakeFiles/lodepng.dir/__/__/_deps/lodepng-src/lodepng.cpp.o"
+"/usr/bin/gcc-ranlib-9" ../../lib/liblodepng.a

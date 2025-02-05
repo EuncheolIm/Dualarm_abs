@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG -flto -fno-fat-lto-objects -fuse-ld=gold -Wl,--gc-sections  -Wl,-no-as-needed -shared -Wl,-soname,libsensor.so -o ../../../../lib/libsensor.so CMakeFiles/sensor.dir/sensor.cc.o CMakeFiles/sensor.dir/touch_grid.cc.o  -Wl,-rpath,/home/kist/euncheol/Dualarm-MPC/build/lib ../../../../lib/libmujoco.so.3.2.3 

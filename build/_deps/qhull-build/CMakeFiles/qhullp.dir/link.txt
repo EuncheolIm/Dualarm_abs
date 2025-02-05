@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG -flto -fno-fat-lto-objects -rdynamic CMakeFiles/qhullp.dir/src/qhull/unix.c.o -o ../../bin/qhullp  -Wl,-rpath,/home/kist/euncheol/Dualarm-MPC/build/lib ../../lib/libqhull_p.so.8.1-alpha1 -lm 
